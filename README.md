@@ -4,10 +4,10 @@
 
 ## Dataset Description
 
-The data we used in this project is [**the Gapminder World** dataset](https://docs.google.com/document/d/e/2PACX-1vTlVmknRRnfy_4eTrjw5hYGaiQim5ctr9naaRd4V9du2B5bxpd8FEH3KtDgp8qVekw7Cj1GLk1IXdZi/pub). We chose three metrics as follows: 
-- Metric 1: Life expectancy in years. 
-- Metric 2: The consumption of sugar in grams per person daily.
-- Metric 3: Happiness score: this is a response to the question of a ladder with steps numbered from 0 to 10 where people were asked to answer on which step they are standing. 
+The data we used in this project is [**the Gapminder World dataset**](https://docs.google.com/document/d/e/2PACX-1vTlVmknRRnfy_4eTrjw5hYGaiQim5ctr9naaRd4V9du2B5bxpd8FEH3KtDgp8qVekw7Cj1GLk1IXdZi/pub). We chose three metrics as follows: 
+- *Metric 1*: Life expectancy in years. 
+- *Metric 2*: The consumption of sugar in grams per person daily.
+- *Metric 3*: Happiness score: this is a response to the question of a ladder with steps numbered from 0 to 10 where people were asked to answer on which step they are standing. 
 
 The data includes three tables, each table representing a specific metric, its evolution over years for a given number of countries. 
 **Column names:** 
